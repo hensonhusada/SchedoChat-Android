@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SchedoChat</string>
+
+    <!-- Strings related to login -->
+    <string name="area_code">+62</string>
+    <string name="prompt_phone_number">Phone Number</string>
+    <string name="prompt_verification_code">Verification Code</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_verify">Verify</string>
+    <string name="action_resend">Resend</string>
+    <string name="status_code_sent">Code Sent</string>
+    <string name="status_verification_failed">Verification Failed</string>
+    <string name="status_instant_validation">Instant Validation</string>
+    <string name="status_sign_in_failed">Sign In Failed</string>
+</resources>
